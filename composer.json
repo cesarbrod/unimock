@@ -1,0 +1,10 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "mockery/mockery": "*"
+    },
+    "autoload": {
+        "classmap": ["app/"]
+    },
+    "minimum-stability": "dev"
+}
